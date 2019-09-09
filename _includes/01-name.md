@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# Julie Scott
+
+## Most Awesome Person Ever!
+
+### At least this is what I think.
